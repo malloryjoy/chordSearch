@@ -87,7 +87,7 @@ This project aims to "narrow down" the list, providing a library consisting only
 
 ### Built With
 
-* [!SQL][SQL.io][SQL-url]
+* [![SQL][SQL.io]][SQL-url]
 * [![MySQL][MySQL.mysql]][mysql-url]
 * [![Postgres][Postgres.io]][postgres-url]
 * [![Python][Python.py]][Python-url]
